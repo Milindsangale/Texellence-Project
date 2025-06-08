@@ -1,0 +1,18 @@
+ body {
+      background-color: #1d4032;
+      color: white;
+    }
+    .btn-custom {
+      background-color: #2ecc71;
+      color: white;
+      border: none;
+    }
+    .btn-custom:hover {
+      background-color: #27ae60;
+    }
+    .feature-box {
+      margin-top: 20px;
+    }
+    .highlight {
+      color: #2ecc71;
+    }
