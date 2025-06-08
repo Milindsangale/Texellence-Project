@@ -8,7 +8,7 @@ const ejsMate = require('ejs-mate');
 const mainRoutes = require('./routes/index');
 
 
-
+/* for the mongodb server connect*/
 
 main()
   .then(() => {
