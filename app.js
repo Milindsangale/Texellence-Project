@@ -35,14 +35,12 @@ app.use('/', mainRoutes);
  app.get('/', (req, res) => {
 res.send('Taxcellence Project is Working!')
   });
-
+/* home router  */
 
 app.get('/home', (req, res) => {
     console.log('Home Page Accessed');
     res.render('pages/home', { title: 'Taxcellence Home' });
 });
-
-
 
 
 
