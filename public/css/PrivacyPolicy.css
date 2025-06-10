@@ -1,0 +1,237 @@
+.privacy-policy,
+.privacy-policy * {
+    box-sizing: border-box;
+}
+
+.privacy-policy {
+    background: #e6f2ea;
+    height: 1117px;
+    position: relative;
+    overflow: hidden;
+}
+
+.nav-bar {
+    background: #203d34;
+    width: 1728px;
+    height: 88px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: hidden;
+}
+
+.nav-buttons {
+    position: absolute;
+    inset: 0;
+}
+
+.home {
+    padding: 10px 16px 10px 16px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 1081px;
+    top: 27px;
+}
+
+.home2 {
+    color: #86e0c4;
+    text-align: center;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    position: relative;
+}
+
+.about {
+    padding: 10px 16px 10px 16px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 1169px;
+    top: 27px;
+}
+
+.about2 {
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    position: relative;
+}
+
+.services {
+    padding: 10px 16px 10px 16px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 1258px;
+    top: 27px;
+}
+
+.services2 {
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    position: relative;
+}
+
+.contact-us {
+    padding: 10px 16px 10px 16px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 1372px;
+    top: 27px;
+}
+
+.contact {
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    position: relative;
+}
+
+.book-a-call {
+    background: #29755a;
+    border-radius: 9.38px;
+    padding: 10.5px 20px 10.5px 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    left: 1496px;
+    top: 27px;
+}
+
+.icon {
+    flex-shrink: 0;
+    width: 14px;
+    height: 14px;
+    position: relative;
+    overflow: visible;
+    aspect-ratio: 1;
+}
+
+.frame-8 {
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    width: 0px;
+    height: 11px;
+    position: relative;
+}
+
+.privacy-policy2 {
+    color: #203d34;
+    text-align: center;
+    font-family: 'Montserrat-SemiBold', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    position: absolute;
+    left: 162px;
+    top: 128px;
+}
+
+.handling-of-personal-information {
+    color: #203d34;
+    text-align: center;
+    font-family: 'Montserrat-SemiBold', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    position: absolute;
+    left: 162px;
+    top: 679px;
+}
+
+.change-notice {
+    color: #203d34;
+    text-align: center;
+    font-family: 'Montserrat-SemiBold', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    position: absolute;
+    left: 162px;
+    top: 822px;
+}
+
+.questions-comments-concerns {
+    color: #203d34;
+    text-align: center;
+    font-family: 'Montserrat-SemiBold', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    position: absolute;
+    left: 162px;
+    top: 989px;
+}
+
+.your-privacy-is-of-utmost-importance-to-us-when-you-access-our-website-your-ip-address-may-be-logged-along-with-the-date-and-time-of-your-visit-this-data-is-used-exclusively-to-identify-usage-trends-manage-the-website-monitor-user-navigation-and-collect-general-demographic-insights-for-internal-purposes-such-as-statistical-analysis-and-enhancing-the-website-s-performance-importantly-any-ip-addresses-recorded-are-not-associated-with-personally-identifiable-details-we-may-also-collect-additional-information-which-is-standard-practice-across-most-websites-for-example-we-can-generally-identify-the-referral-source-that-directed-you-to-our-site-likewise-we-may-track-how-long-you-stay-on-our-site-and-the-next-destination-you-visit-after-leaving-other-routinely-collected-data-includes-your-computer-s-operating-system-and-the-web-browser-you-re-using-these-practices-are-typical-and-serve-to-create-a-better-more-tailored-user-experience-please-assume-that-our-website-utilizes-cookies-you-have-the-option-to-modify-your-browser-settings-to-disable-cookies-or-receive-alerts-when-cookies-are-being-used-allowing-you-to-decide-how-to-proceed-be-aware-however-that-disabling-cookies-may-impair-the-functionality-of-certain-features-and-may-limit-your-ability-to-fully-interact-with-the-website-while-interacting-with-this-website-our-mobile-applications-proprietary-extensions-or-when-using-our-products-and-services-through-online-or-offline-channels-including-but-not-limited-to-bank-branches-authorized-sales-points-third-party-platforms-or-through-any-form-of-communication-electronic-or-otherwise-or-via-any-current-or-future-method-or-platform-introduced-by-us-collectively-referred-to-as-the-services-taxellence-may-collect-obtain-store-utilize-manage-process-transfer-and-retain-your-personal-data-customer-information-by-using-or-accessing-our-services-you-acknowledge-that-you-have-read-understood-and-agreed-to-be-bound-by-this-privacy-policy-and-you-consent-to-the-collection-storage-usage-processing-transfer-and-retention-of-your-customer-information-by-taxellence-as-outlined-herein {
+    color: #000000;
+    text-align: justified;
+    font-family: 'Montserrat-Regular', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    position: absolute;
+    left: 162px;
+    top: 177px;
+    width: 1404px;
+}
+
+.the-core-purpose-of-collecting-personal-and-sensitive-information-from-you-is-to-support-the-operations-of-our-business-and-serve-you-more-efficiently-this-data-is-used-internally-to-improve-our-services-and-interactions-with-you-we-do-not-disclose-or-distribute-your-personal-data-to-third-parties-or-external-entities-unless-you-have-explicitly-given-us-consent-to-do-so {
+    color: #000000;
+    text-align: justified;
+    font-family: 'Montserrat-Regular', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    position: absolute;
+    left: 162px;
+    top: 728px;
+    width: 1404px;
+}
+
+.as-with-all-administrative-and-legal-notice-pages-the-contents-of-this-privacy-policy-are-subject-to-updates-and-modifications-over-time-therefore-the-information-presented-here-may-differ-during-subsequent-visits-these-updates-are-essential-for-ensuring-your-protection-and-the-security-of-our-website-if-this-information-is-of-importance-to-you-we-recommend-reviewing-this-page-periodically-as-we-will-not-provide-prior-or-subsequent-notice-of-any-modifications-made {
+    color: #000000;
+    text-align: justified;
+    font-family: 'Montserrat-Regular', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    position: absolute;
+    left: 162px;
+    top: 871px;
+    width: 1404px;
+}
+
+.if-you-have-any-inquiries-about-the-content-of-this-policy-or-wish-to-contact-us-for-any-other-purpose-please-feel-free-to-do-so-using-the-contact-details-provided-on-our-website {
+    color: #000000;
+    text-align: justified;
+    font-family: 'Montserrat-Regular', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    position: absolute;
+    left: 162px;
+    top: 1038px;
+    width: 1404px;
+}

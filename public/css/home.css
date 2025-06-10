@@ -1,14 +1,28 @@
-
-
-
-.home,
-.home * {
+.frame-312,
+.frame-312 * {
     box-sizing: border-box;
 }
 
-.home {
+.frame-312 {
     height: 3957px;
     position: relative;
+}
+
+.mac-book-pro-16-20 {
+    background: var(--taxellence-bg, linear-gradient(to left, rgba(24, 71, 57, 0.75), rgba(24, 71, 57, 0.75)));
+    width: 1728px;
+    height: 1117px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.home {
+    width: 1728px;
+    height: 3957px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
 }
 
 .testimonials {
@@ -290,7 +304,7 @@
 
 .at-taxellence-we-specialize-in-providing-expert-tax-and-financial-consulting-to-businesses-and-individuals-with-over-eight-years-of-experience-we-simplify-complex-financial-landscapes-through-strategic-tax-planning-compliance-and-tailored-financial-solutions-our-approach-goes-beyond-numbers-we-focus-on-efficiency-growth-and-long-term-financial-stability-by-staying-ahead-of-industry-trends-and-regulations-we-ensure-our-clients-receive-precise-ethical-and-forward-thinking-guidance-at-taxellence-trust-transparency-and-excellence-are-at-the-core-of-everything-we-do-let-s-build-a-stronger-financial-future-together {
     color: #ffffff;
-    text-align: justified;
+    text-align: left;
     font-family: 'Roboto-Light', sans-serif;
     font-size: 28px;
     font-weight: 300;
@@ -1253,7 +1267,7 @@
     align-items: center;
     justify-content: center;
     position: absolute;
-    left: 1081px;
+    left: 1012px;
     top: 27px;
 }
 
@@ -1274,7 +1288,7 @@
     align-items: center;
     justify-content: center;
     position: absolute;
-    left: 1169px;
+    left: 1100px;
     top: 27px;
 }
 
@@ -1295,7 +1309,7 @@
     align-items: center;
     justify-content: center;
     position: absolute;
-    left: 1258px;
+    left: 1189px;
     top: 27px;
 }
 
@@ -1316,7 +1330,7 @@
     align-items: center;
     justify-content: center;
     position: absolute;
-    left: 1372px;
+    left: 1303px;
     top: 27px;
 }
 
@@ -1335,11 +1349,11 @@
     padding: 10.5px 20px 10.5px 20px;
     display: flex;
     flex-direction: row;
-    gap: 0px;
+    gap: 12.5px;
     align-items: center;
     justify-content: flex-start;
     position: absolute;
-    left: 1496px;
+    left: 1427px;
     top: 27px;
 }
 
@@ -1352,15 +1366,12 @@
     aspect-ratio: 1;
 }
 
-.frame-82 {
-    display: flex;
-    flex-direction: row;
-    gap: 0px;
-    align-items: center;
-    justify-content: center;
-    flex-shrink: 0;
-    width: 0px;
-    height: 11px;
+.sign-in {
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Montserrat-SemiBold', sans-serif;
+    font-size: 15.625px;
+    font-weight: 600;
     position: relative;
 }
 

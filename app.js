@@ -43,6 +43,29 @@ app.get('/home', (req, res) => {
 });
 
 
+app.get('/pages/allServices', (req, res) => {
+    res.render('pages/allServices'); // Renders 'views/allServices.ejs'
+});
+
+
+app.get('/signin', (req, res) => {
+    res.render('pages/signin'); // Renders 'views/allServices.ejs'
+});
+
+app.get('/signup', (req, res) => {
+    res.render('pages/signup'); // Renders 'views/allServices.ejs'
+}
+);
+
+app.get('/varify', (req, res) => {
+    res.render('pages/Verify.ejs'); // Renders 'views/allServices.ejs'    
+}
+);
+
+app.get('/PrivacyPolicy', (req, res) => { 
+    res.render('pages/PrivacyPolicy.ejs'); // Renders 'views/privacy.ejs'
+}
+);
 
     app.listen(port, () => {
       console.log(`Taxcellence listening on port ${port}`)

@@ -1,0 +1,204 @@
+.mac-book-pro-16-22,
+.mac-book-pro-16-22 * {
+    box-sizing: border-box;
+}
+
+.mac-book-pro-16-22 {
+    background: #e6f2ea;
+    height: 1117px;
+    position: relative;
+    overflow: hidden;
+}
+
+.group-10 {
+    position: absolute;
+    inset: 0;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    align-items: center;
+    justify-content: center;
+    width: 542.46px;
+    height: 383.05px;
+    position: absolute;
+    left: 593px;
+    top: 307px;
+}
+
+.frame-8 {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.verify-your-credentials {
+    color: #333333;
+    text-align: left;
+    font-family: 'Montserrat-Medium', sans-serif;
+    font-size: 36.699195861816406px;
+    font-weight: 500;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.frame-218 {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.text-field {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    width: 542.46px;
+    position: relative;
+}
+
+.frame-243 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    align-self: stretch;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.label {
+    color: #666666;
+    text-align: left;
+    font-family: 'Montserrat-Regular', sans-serif;
+    font-size: 18.349597930908203px;
+    font-weight: 400;
+    position: relative;
+}
+
+.frame-277 {
+    flex-shrink: 0;
+    width: 311.94px;
+    height: 64.22px;
+    position: relative;
+}
+
+.text-field2 {
+    border-radius: 13.76px;
+    border-style: solid;
+    border-color: rgba(102, 102, 102, 0.35);
+    border-width: 1.15px;
+    width: 64.22px;
+    height: 64.22px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: hidden;
+}
+
+.text-field3 {
+    border-radius: 13.76px;
+    border-style: solid;
+    border-color: rgba(102, 102, 102, 0.35);
+    border-width: 1.15px;
+    width: 64.22px;
+    height: 64.22px;
+    position: absolute;
+    left: 82.57px;
+    top: 0px;
+    overflow: hidden;
+}
+
+.text-field4 {
+    border-radius: 13.76px;
+    border-style: solid;
+    border-color: rgba(102, 102, 102, 0.35);
+    border-width: 1.15px;
+    width: 64.22px;
+    height: 64.22px;
+    position: absolute;
+    left: 165.15px;
+    top: 0px;
+    overflow: hidden;
+}
+
+.text-field5 {
+    border-radius: 13.76px;
+    border-style: solid;
+    border-color: rgba(102, 102, 102, 0.35);
+    border-width: 1.15px;
+    width: 64.22px;
+    height: 64.22px;
+    position: absolute;
+    left: 247.72px;
+    top: 0px;
+    overflow: hidden;
+}
+
+.fill-the-otp-sent-to-you-via-email {
+    color: #666666;
+    text-align: left;
+    font-family: 'Montserrat-Regular', sans-serif;
+    font-size: 18.349597930908203px;
+    font-weight: 400;
+    position: relative;
+}
+
+.fill-the-otp-sent-to-you-via-mobile-number {
+    color: #666666;
+    text-align: left;
+    font-family: 'Montserrat-Regular', sans-serif;
+    font-size: 18.349597930908203px;
+    font-weight: 400;
+    position: relative;
+}
+
+.button {
+    background: rgba(102, 102, 102, 0.50);
+    border-radius: 36.7px;
+    position: absolute;
+    right: 709.35px;
+    left: 709px;
+    bottom: 305.55px;
+    top: 738.0478515625px;
+    overflow: hidden;
+}
+
+.frame-276 {
+    display: flex;
+    flex-direction: row;
+    gap: 9.17px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 50%;
+    translate: -50% -50%;
+    top: 50%;
+}
+
+.verify-account {
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Montserrat-Medium', sans-serif;
+    font-size: 25.230697631835938px;
+    font-weight: 500;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

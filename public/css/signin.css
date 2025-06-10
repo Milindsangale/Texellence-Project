@@ -1,0 +1,375 @@
+.mac-book-pro-16-21,
+.mac-book-pro-16-21 * {
+    box-sizing: border-box;
+}
+
+.mac-book-pro-16-21 {
+    background: #e6f2ea;
+    height: 1117px;
+    position: relative;
+    overflow: hidden;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    align-items: center;
+    justify-content: center;
+    width: 542.46px;
+    height: 617px;
+    position: absolute;
+    left: 593px;
+    top: 250px;
+    aspect-ratio: 542.46/617;
+}
+
+.frame-8 {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.sign-into-your-account {
+    color: #333333;
+    text-align: left;
+    font-family: 'Montserrat-Medium', sans-serif;
+    font-size: 33.23905944824219px;
+    font-weight: 500;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.frame-218 {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.text-field {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.frame-302 {
+    padding: 0px 0px 0px 4px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.username {
+    color: #5c605d;
+    text-align: left;
+    font-family: 'Montserrat-Regular', sans-serif;
+    font-size: 17.65750503540039px;
+    font-weight: 400;
+    position: relative;
+}
+
+.text-field2 {
+    border-radius: 13.24px;
+    border-style: solid;
+    border-color: rgba(33, 33, 33, 0.70);
+    border-width: 1.1px;
+    flex-shrink: 0;
+    width: 522px;
+    height: 61.8px;
+    position: relative;
+    overflow: hidden;
+}
+
+.frame-304 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    align-self: stretch;
+    flex-shrink: 0;
+    height: 22px;
+    position: relative;
+}
+
+.password {
+    color: #5c605d;
+    text-align: left;
+    font-family: 'Montserrat-Regular', sans-serif;
+    font-size: 17.65750503540039px;
+    font-weight: 400;
+    position: relative;
+}
+
+.password-hide-see {
+    padding: 0px 16px 0px 0px;
+    display: flex;
+    flex-direction: row;
+    gap: 2px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    height: 22px;
+    position: relative;
+}
+
+.frame-303 {
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.icon {
+    flex-shrink: 0;
+    width: 22px;
+    height: 22px;
+    position: relative;
+    overflow: hidden;
+}
+
+.group-1 {
+    width: 75.77%;
+    height: 66.65%;
+    position: absolute;
+    right: 12.09%;
+    left: 12.14%;
+    bottom: 16.64%;
+    top: 16.71%;
+    overflow: visible;
+}
+
+.hide {
+    color: #505050;
+    text-align: right;
+    font-family: 'Montserrat-Regular', sans-serif;
+    font-size: 19.86469268798828px;
+    font-weight: 400;
+    position: relative;
+}
+
+.frame-306 {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.text-field3 {
+    border-radius: 13.24px;
+    border-style: solid;
+    border-color: rgba(33, 33, 33, 0.70);
+    border-width: 1.1px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-shrink: 0;
+    width: 522px;
+    height: 61.8px;
+    position: relative;
+    overflow: hidden;
+}
+
+.frame-305 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    flex-shrink: 0;
+    height: 19px;
+    position: relative;
+}
+
+.error-message {
+    color: #4c4c4c;
+    text-align: justified;
+    font-family: 'Montserrat-Regular', sans-serif;
+    font-size: 15.4503173828125px;
+    font-weight: 400;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.not-a-robot-checkbox {
+    background: #ffffff;
+    border-radius: 18.7px;
+    border-style: solid;
+    border-color: #333333;
+    border-width: 1.04px;
+    padding: 12.46px 33.24px 12.46px 33.24px;
+    flex-shrink: 0;
+    width: 377.06px;
+    height: 70.63px;
+    position: relative;
+}
+
+.frame-217 {
+    display: flex;
+    flex-direction: row;
+    gap: 8.31px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 24.93px;
+    top: 22.85px;
+}
+
+.check-box {
+    flex-shrink: 0;
+    width: 18.7px;
+    height: 18.7px;
+    position: relative;
+    overflow: visible;
+}
+
+.i-m-not-a-robot {
+    color: #333333;
+    text-align: center;
+    font-family: 'Montserrat-Light', sans-serif;
+    font-size: 16.619529724121094px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.google-recaptcha-official-2 {
+    width: 49.86px;
+    height: 48.08px;
+    position: absolute;
+    right: 24.93px;
+    top: 11.43px;
+    overflow: visible;
+}
+
+.frame-3 {
+    display: flex;
+    flex-direction: column;
+    gap: 8.31px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.button {
+    background: #111111;
+    border-radius: 33.24px;
+    opacity: 0.25;
+    flex-shrink: 0;
+    position: relative;
+    overflow: hidden;
+}
+
+.frame-276 {
+    display: flex;
+    flex-direction: row;
+    gap: 8.31px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 50%;
+    translate: -50% -50%;
+    top: 50%;
+}
+
+.sign-into-accrount {
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Montserrat-Medium', sans-serif;
+    font-size: 22.851852416992188px;
+    font-weight: 500;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.group-11 {
+    flex-shrink: 0;
+    width: 277.83px;
+    height: 26.41px;
+    position: static;
+}
+
+.have-an-account-login {
+    padding: 2.21px;
+    display: flex;
+    flex-direction: row;
+    gap: 11.04px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 203.73px;
+    top: 74.79px;
+}
+
+.sign-up {
+    color: #333333;
+    text-align: left;
+    font-family: 'Montserrat-Regular', sans-serif;
+    font-size: 17.65750503540039px;
+    font-weight: 400;
+    text-decoration: underline;
+    position: relative;
+}
+
+.have-an-account-login2 {
+    padding: 2.21px;
+    display: flex;
+    flex-direction: row;
+    gap: 11.04px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 1.31px;
+    top: 74.79px;
+}
+
+.don-t-have-an-ccount {
+    text-align: left;
+    font-family: 'Montserrat-Regular', sans-serif;
+    font-size: 17.65750503540039px;
+    font-weight: 400;
+    position: relative;
+}
+
+.don-t-have-an-ccount-span {
+    color: rgba(51, 51, 51, 0.60);
+}
+
+.don-t-have-an-ccount-span2 {
+    color: #666666;
+}
+
+.don-t-have-an-ccount-span3 {
+    color: #666666;
+    text-decoration: underline;
+}

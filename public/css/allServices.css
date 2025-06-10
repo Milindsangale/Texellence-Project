@@ -1,0 +1,1759 @@
+.all-services,
+.all-services * {
+    box-sizing: border-box;
+}
+
+.all-services {
+    background: #e6f2ea;
+    height: 3513px;
+    position: relative;
+    overflow: hidden;
+}
+
+.frame-19 {
+    background: rgba(25, 126, 55, 0.23);
+    width: 1728px;
+    height: 428px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.group-5 {
+    position: absolute;
+    inset: 0;
+}
+
+.title {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 424px;
+    top: 183px;
+}
+
+.strategic-tax-solutions-for-financial-success {
+    text-align: center;
+    font-family: 'Montserrat-Bold', sans-serif;
+    font-size: 64px;
+    font-weight: 700;
+    position: relative;
+}
+
+.strategic-tax-solutions-for-financial-success-span {
+    color: #197e37;
+}
+
+.strategic-tax-solutions-for-financial-success-span2 {
+    color: #000000;
+}
+
+.imp-t-ile {
+    background: #87e0c4;
+    border-radius: 24px;
+    border-style: solid;
+    border-color: #29755a;
+    border-width: 1px;
+    padding: 8px 20px 8px 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 801px;
+    top: 125px;
+}
+
+.our-services {
+    color: #203d34;
+    text-align: left;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    position: relative;
+}
+
+.short-intro {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 459px;
+    top: 354px;
+}
+
+.we-provide-a-wide-range-of-tax-services-designed-to-address-the-unique-challenges-faced-by-individuals-and-businesses {
+    color: #565656;
+    text-align: center;
+    font-family: 'Roboto-Regular', sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    position: relative;
+}
+
+.nav-bar {
+    background: #203d34;
+    width: 1728px;
+    height: 88px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: hidden;
+}
+
+.nav-buttons {
+    position: absolute;
+    inset: 0;
+}
+
+.home {
+    padding: 10px 16px 10px 16px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 1081px;
+    top: 27px;
+}
+
+.home2 {
+    color: #86e0c4;
+    text-align: center;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    position: relative;
+}
+
+.about {
+    padding: 10px 16px 10px 16px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 1169px;
+    top: 27px;
+}
+
+.about2 {
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    position: relative;
+}
+
+.services {
+    padding: 10px 16px 10px 16px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 1258px;
+    top: 27px;
+}
+
+.services2 {
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    position: relative;
+}
+
+.contact-us {
+    padding: 10px 16px 10px 16px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 1372px;
+    top: 27px;
+}
+
+.contact {
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    position: relative;
+}
+
+.book-a-call {
+    background: #29755a;
+    border-radius: 9.38px;
+    padding: 10.5px 20px 10.5px 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    left: 1496px;
+    top: 27px;
+}
+
+.icon {
+    flex-shrink: 0;
+    width: 14px;
+    height: 14px;
+    position: relative;
+    overflow: visible;
+    aspect-ratio: 1;
+}
+
+.frame-8 {
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    width: 0px;
+    height: 11px;
+    position: relative;
+}
+
+.frame-38 {
+    background: #ffffff;
+    width: 1728px;
+    height: 1001px;
+    position: absolute;
+    left: 0px;
+    top: 2088px;
+    overflow: hidden;
+}
+
+.group-6 {
+    position: absolute;
+    inset: 0;
+}
+
+.title2 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 682px;
+    top: 90px;
+}
+
+.how-we-work {
+    color: #197e37;
+    text-align: center;
+    font-family: 'Montserrat-Bold', sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    position: relative;
+}
+
+.imp-t-ile2 {
+    background: #87e0c4;
+    border-radius: 24px;
+    border-style: solid;
+    border-color: #29755a;
+    border-width: 1px;
+    padding: 8px 20px 8px 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 803px;
+    top: 32px;
+}
+
+.our-process {
+    color: #203d34;
+    text-align: left;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    position: relative;
+}
+
+.short-intro2 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 376px;
+    top: 148px;
+}
+
+.we-follow-a-proven-methodology-to-ensure-we-deliver-exceptional-results-for-every-client-every-time {
+    color: #565656;
+    text-align: center;
+    font-family: 'Roboto-Regular', sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    position: relative;
+}
+
+.frame-39 {
+    width: 836.4px;
+    height: 724.8px;
+    position: absolute;
+    left: 446px;
+    top: 244px;
+}
+
+.discovery-we-begin-by-understanding-your-current-financial-situation-goals-and-challenges-through-an-in-depth-consultation-analysis-our-team-carefully-reviews-your-financial-data-identifying-opportunities-and-potential-issues-that-need-to-be-addressed-strategy-development-we-develop-a-customized-tax-strategy-tailored-to-your-specific-needs-and-objectives-implementation-we-put-your-personalized-plan-into-action-handling-all-necessary-filings-and-documentation-ongoing-support-we-provide-ongoing-advice-and-adjustments-as-your-circumstances-change-or-tax-laws-evolve {
+    text-align: center;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.discovery-we-begin-by-understanding-your-current-financial-situation-goals-and-challenges-through-an-in-depth-consultation-analysis-our-team-carefully-reviews-your-financial-data-identifying-opportunities-and-potential-issues-that-need-to-be-addressed-strategy-development-we-develop-a-customized-tax-strategy-tailored-to-your-specific-needs-and-objectives-implementation-we-put-your-personalized-plan-into-action-handling-all-necessary-filings-and-documentation-ongoing-support-we-provide-ongoing-advice-and-adjustments-as-your-circumstances-change-or-tax-laws-evolve-span {
+    color: rgba(53, 114, 71, 0.90);
+    font-family: 'Roboto-Bold', sans-serif;
+    font-size: 38.400001525878906px;
+    font-weight: 700;
+}
+
+.discovery-we-begin-by-understanding-your-current-financial-situation-goals-and-challenges-through-an-in-depth-consultation-analysis-our-team-carefully-reviews-your-financial-data-identifying-opportunities-and-potential-issues-that-need-to-be-addressed-strategy-development-we-develop-a-customized-tax-strategy-tailored-to-your-specific-needs-and-objectives-implementation-we-put-your-personalized-plan-into-action-handling-all-necessary-filings-and-documentation-ongoing-support-we-provide-ongoing-advice-and-adjustments-as-your-circumstances-change-or-tax-laws-evolve-span2 {
+    color: rgba(53, 114, 71, 0.90);
+    font-family: 'Roboto-Regular', sans-serif;
+    font-size: 13.200000762939453px;
+    font-weight: 400;
+}
+
+.discovery-we-begin-by-understanding-your-current-financial-situation-goals-and-challenges-through-an-in-depth-consultation-analysis-our-team-carefully-reviews-your-financial-data-identifying-opportunities-and-potential-issues-that-need-to-be-addressed-strategy-development-we-develop-a-customized-tax-strategy-tailored-to-your-specific-needs-and-objectives-implementation-we-put-your-personalized-plan-into-action-handling-all-necessary-filings-and-documentation-ongoing-support-we-provide-ongoing-advice-and-adjustments-as-your-circumstances-change-or-tax-laws-evolve-span3 {
+    color: #4c4c4c;
+    font-family: 'Roboto-Regular', sans-serif;
+    font-size: 26.400001525878906px;
+    font-weight: 400;
+}
+
+.footer {
+    background: #f2f2f2;
+    width: 1728px;
+    height: 424px;
+    position: absolute;
+    left: -1px;
+    top: 3089px;
+    box-shadow: inset 0px 1px 4px 0px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+}
+
+.frame-33 {
+    display: flex;
+    flex-direction: row;
+    gap: 28.02px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 144px;
+    top: 80px;
+}
+
+.taxellence {
+    text-align: left;
+    font-family: 'InstrumentSans-SemiBold', sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+    position: relative;
+}
+
+.taxellence-span {
+    color: #184739;
+}
+
+.taxellence-span2 {
+    color: rgba(25, 126, 55, 0.89);
+}
+
+.frame-282 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 1238px;
+    top: 175px;
+}
+
+._22nd-floor-world-trade-center-no-2201-a-malleshwaram-bengaluru-karnataka-560055-mail-hitesh {
+    color: rgba(68, 68, 68, 0.80);
+    text-align: left;
+    font-family: 'InstrumentSans-Regular', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    position: relative;
+    width: 321px;
+}
+
+.group-4 {
+    position: absolute;
+    inset: 0;
+}
+
+.frame-34 {
+    display: flex;
+    flex-direction: row;
+    gap: 28.02px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 169px;
+    top: 141px;
+}
+
+.working-hours {
+    color: rgba(68, 68, 68, 0.80);
+    text-align: left;
+    font-family: 'InstrumentSans-Medium', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    position: relative;
+}
+
+.frame-35 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 169px;
+    top: 175px;
+}
+
+.monday-tuesday-wednesday-thursday-friday-saturday {
+    color: rgba(68, 68, 68, 0.80);
+    text-align: left;
+    font-family: 'Roboto-Regular', sans-serif;
+    font-size: 20px;
+    line-height: 130%;
+    font-weight: 400;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.frame-36 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 279px;
+    top: 175px;
+}
+
+.div {
+    color: rgba(68, 68, 68, 0.80);
+    text-align: left;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 20px;
+    line-height: 130%;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.frame-382 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 293px;
+    top: 175px;
+}
+
+._9-am-to-6-pm-9-am-to-6-pm-9-am-to-6-pm-9-am-to-6-pm-9-am-to-6-pm-9-am-to-6-pm {
+    color: rgba(68, 68, 68, 0.80);
+    text-align: left;
+    font-family: 'InstrumentSans-Regular', sans-serif;
+    font-size: 20px;
+    line-height: 130%;
+    font-weight: 400;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.line-2 {
+    margin-top: -0.5px;
+    border-style: solid;
+    border-color: rgba(68, 68, 68, 0.80);
+    border-width: 0.5px 0 0 0;
+    width: 1660.08px;
+    height: 0px;
+    position: absolute;
+    left: 48px;
+    top: 344px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+}
+
+._2025-taxcellence-all-rights-reserved {
+    color: rgba(68, 68, 68, 0.80);
+    text-align: left;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    position: absolute;
+    left: 48px;
+    top: 372px;
+}
+
+.frame-283 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 1522px;
+    top: 372px;
+}
+
+.privacy-policy {
+    color: rgba(68, 68, 68, 0.80);
+    text-align: left;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    position: relative;
+}
+
+.frame-291 {
+    background: #ffffff;
+    border-radius: 24px;
+    border-style: solid;
+    border-color: rgba(25, 126, 55, 0.70);
+    border-width: 1px;
+    width: 426px;
+    height: 365px;
+    position: absolute;
+    left: 185px;
+    top: 484px;
+    box-shadow: 0px 4px 4px 0px rgba(32, 61, 52, 0.38);
+    overflow: hidden;
+}
+
+.frame-20 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 132px;
+    top: 110px;
+}
+
+.tax-planning {
+    color: #203d34;
+    text-align: center;
+    font-family: 'Roboto-Medium', sans-serif;
+    font-size: 28px;
+    font-weight: 500;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.frame-21 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 56px;
+    top: 154px;
+}
+
+.strategic-planning-to-minimize-tax-liabilities-and-maximize-your-financial-efficiency {
+    color: #29755a;
+    text-align: center;
+    font-family: var(--type-of-service-description-1-font-family, 'Roboto-Regular', sans-serif);
+    font-size: var(--type-of-service-description-1-font-size, 22px);
+    font-weight: var(--type-of-service-description-1-font-weight, 400);
+    position: relative;
+    width: 313px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.frame-22 {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 56px;
+    top: 246px;
+}
+
+.ellipse-4 {
+    background: #203d34;
+    border-radius: 50%;
+    flex-shrink: 0;
+    width: 5px;
+    height: 5px;
+    position: relative;
+    aspect-ratio: 1;
+}
+
+.personalized-tax-strategy-development {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.frame-23 {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 56px;
+    top: 269px;
+}
+
+.proactive-tax-saving-recommendations {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.frame-24 {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 56px;
+    top: 292px;
+}
+
+.year-round-tax-planning {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.frame-25 {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 56px;
+    top: 315px;
+}
+
+.tax-efficient-investment-guidance {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fi-rs-calculator {
+    width: 49px;
+    height: 49px;
+    position: absolute;
+    left: 188px;
+    top: 37px;
+    overflow: visible;
+    aspect-ratio: 1;
+}
+
+.frame-292 {
+    background: #ffffff;
+    border-radius: 24px;
+    border-style: solid;
+    border-color: rgba(25, 126, 55, 0.70);
+    border-width: 1px;
+    width: 426px;
+    height: 365px;
+    position: absolute;
+    left: 185px;
+    top: 881px;
+    box-shadow: 0px 4px 4px 0px rgba(32, 61, 52, 0.38);
+    overflow: hidden;
+}
+
+.frame-202 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 115px;
+    top: 110px;
+}
+
+.estate-planning {
+    color: #203d34;
+    text-align: center;
+    font-family: 'Roboto-Medium', sans-serif;
+    font-size: 28px;
+    font-weight: 500;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.frame-212 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 39px;
+    top: 154px;
+}
+
+.securing-your-legacy-with-efficient-estate-and-inheritance-tax-planning {
+    color: #29755a;
+    text-align: center;
+    font-family: var(--type-of-service-description-1-font-family, 'Roboto-Regular', sans-serif);
+    font-size: var(--type-of-service-description-1-font-size, 22px);
+    font-weight: var(--type-of-service-description-1-font-weight, 400);
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.estate-tax-minimization-strategies {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.trust-establishment-and-administration {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gift-tax-planning {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wealth-transfer-optimization {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fi-rs-bank {
+    width: 49px;
+    height: 49px;
+    position: absolute;
+    left: 189px;
+    top: 37px;
+    overflow: visible;
+    aspect-ratio: 1;
+}
+
+.frame-293 {
+    background: #ffffff;
+    border-radius: 24px;
+    border-style: solid;
+    border-color: rgba(25, 126, 55, 0.70);
+    border-width: 1px;
+    width: 426px;
+    height: 365px;
+    position: absolute;
+    left: 185px;
+    top: 1278px;
+    box-shadow: 0px 4px 4px 0px rgba(32, 61, 52, 0.38);
+    overflow: hidden;
+}
+
+.frame-203 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 94px;
+    top: 110px;
+}
+
+.corporate-taxation {
+    color: #203d34;
+    text-align: center;
+    font-family: 'Roboto-Medium', sans-serif;
+    font-size: 28px;
+    font-weight: 500;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.specialized-tax-services-for-corporations-of-all-sizes {
+    color: #29755a;
+    text-align: center;
+    font-family: var(--type-of-service-description-1-font-family, 'Roboto-Regular', sans-serif);
+    font-size: var(--type-of-service-description-1-font-size, 22px);
+    font-weight: var(--type-of-service-description-1-font-weight, 400);
+    position: relative;
+    width: 348px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.corporate-tax-compliance {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tax-provision-asc-740-services {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.corporate-restructuring {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tax-credit-identification {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.vector {
+    width: 12.21%;
+    height: 49.4px;
+    position: absolute;
+    right: 43.9%;
+    left: 43.9%;
+    top: calc(50% - 140.7px);
+    overflow: visible;
+    aspect-ratio: 52/49.4;
+}
+
+.frame-294 {
+    background: #ffffff;
+    border-radius: 24px;
+    border-style: solid;
+    border-color: rgba(25, 126, 55, 0.70);
+    border-width: 1px;
+    width: 426px;
+    height: 365px;
+    position: absolute;
+    left: 185px;
+    top: 1675px;
+    box-shadow: 0px 4px 4px 0px rgba(32, 61, 52, 0.38);
+    overflow: hidden;
+}
+
+.frame-204 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 121px;
+    top: 110px;
+}
+
+.tax-resolution {
+    color: #203d34;
+    text-align: center;
+    font-family: 'Roboto-Medium', sans-serif;
+    font-size: 28px;
+    font-weight: 500;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.assistance-with-resolving-tax-debts-and-disputes-with-tax-authorities {
+    color: #29755a;
+    text-align: center;
+    font-family: var(--type-of-service-description-1-font-family, 'Roboto-Regular', sans-serif);
+    font-size: var(--type-of-service-description-1-font-size, 22px);
+    font-weight: var(--type-of-service-description-1-font-weight, 400);
+    position: relative;
+    width: 348px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.installment-agreement-negotiation {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.offer-in-compromise-submission {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tax-lien-assistance {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.back-tax-resolution {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.vector2 {
+    width: 9.2%;
+    height: 49px;
+    position: absolute;
+    right: 45.26%;
+    left: 45.54%;
+    top: calc(50% - 145.5px);
+    overflow: visible;
+    aspect-ratio: 39.2/49;
+}
+
+.frame-295 {
+    background: #ffffff;
+    border-radius: 24px;
+    border-style: solid;
+    border-color: rgba(25, 126, 55, 0.70);
+    border-width: 1px;
+    width: 426px;
+    height: 365px;
+    position: absolute;
+    left: 651px;
+    top: 484px;
+    box-shadow: 0px 4px 4px 0px rgba(32, 61, 52, 0.38);
+    overflow: hidden;
+}
+
+.frame-205 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 112px;
+    top: 110px;
+}
+
+.tax-compliance {
+    color: #203d34;
+    text-align: center;
+    font-family: 'Roboto-Medium', sans-serif;
+    font-size: 28px;
+    font-weight: 500;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ensuring-your-tax-filings-are-accurate-complete-and-submitted-on-time {
+    color: #29755a;
+    text-align: center;
+    font-family: var(--type-of-service-description-1-font-family, 'Roboto-Regular', sans-serif);
+    font-size: var(--type-of-service-description-1-font-size, 22px);
+    font-weight: var(--type-of-service-description-1-font-weight, 400);
+    position: relative;
+    width: 313px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.individual-and-business-tax-returns {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.multi-state-tax-filings {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tax-deadline-management {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.electronic-filing-and-processing {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fi-rs-file-check {
+    width: 49px;
+    height: 49px;
+    position: absolute;
+    left: 188px;
+    top: 37px;
+    overflow: visible;
+    aspect-ratio: 1;
+}
+
+.frame-296 {
+    background: #ffffff;
+    border-radius: 24px;
+    border-style: solid;
+    border-color: rgba(25, 126, 55, 0.70);
+    border-width: 1px;
+    width: 426px;
+    height: 365px;
+    position: absolute;
+    left: 651px;
+    top: 881px;
+    box-shadow: 0px 4px 4px 0px rgba(32, 61, 52, 0.38);
+    overflow: hidden;
+}
+
+.frame-206 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 124px;
+    top: 110px;
+}
+
+.audit-defense {
+    color: #203d34;
+    text-align: center;
+    font-family: 'Roboto-Medium', sans-serif;
+    font-size: 28px;
+    font-weight: 500;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.frame-213 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 13px;
+    top: 154px;
+}
+
+.professional-representation-and-support-during-tax-audits-and-inquiries {
+    color: #29755a;
+    text-align: center;
+    font-family: var(--type-of-service-description-1-font-family, 'Roboto-Regular', sans-serif);
+    font-size: var(--type-of-service-description-1-font-size, 22px);
+    font-weight: var(--type-of-service-description-1-font-weight, 400);
+    position: relative;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.irs-audit-representation {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tax-notice-response-assistance {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.penalty-abatement-requests {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.audit-risk-assessment {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fi-rs-shield-plus {
+    width: 49px;
+    height: 49px;
+    position: absolute;
+    left: 188px;
+    top: 37px;
+    overflow: hidden;
+    aspect-ratio: 1;
+}
+
+._01-align-center {
+    width: 83.33%;
+    height: 100%;
+    position: absolute;
+    right: 8.33%;
+    left: 8.33%;
+    bottom: -0.04%;
+    top: 0.04%;
+    overflow: visible;
+}
+
+.frame-297 {
+    background: #ffffff;
+    border-radius: 24px;
+    border-style: solid;
+    border-color: rgba(25, 126, 55, 0.70);
+    border-width: 1px;
+    width: 426px;
+    height: 365px;
+    position: absolute;
+    left: 651px;
+    top: 1278px;
+    box-shadow: 0px 4px 4px 0px rgba(32, 61, 52, 0.38);
+    overflow: hidden;
+}
+
+.frame-207 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 97px;
+    top: 110px;
+}
+
+.nonprofit-taxation {
+    color: #203d34;
+    text-align: center;
+    font-family: 'Roboto-Medium', sans-serif;
+    font-size: 28px;
+    font-weight: 500;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tax-services-tailored-to-the-unique-needs-of-nonprofit-organizations {
+    color: #29755a;
+    text-align: center;
+    font-family: var(--type-of-service-description-1-font-family, 'Roboto-Regular', sans-serif);
+    font-size: var(--type-of-service-description-1-font-size, 22px);
+    font-weight: var(--type-of-service-description-1-font-weight, 400);
+    position: relative;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tax-exempt-status-applications {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.annual-filings-form-990 {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.unrelated-business-income-tax-planning {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.donor-acknowledgment-compliance {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.vector3 {
+    width: 15.26%;
+    height: 49px;
+    position: absolute;
+    right: 42.25%;
+    left: 42.49%;
+    top: calc(50% - 145.5px);
+    overflow: visible;
+    aspect-ratio: 65/49;
+}
+
+.frame-298 {
+    background: #ffffff;
+    border-radius: 24px;
+    border-style: solid;
+    border-color: rgba(25, 126, 55, 0.70);
+    border-width: 1px;
+    width: 426px;
+    height: 365px;
+    position: absolute;
+    left: 1117px;
+    top: 484px;
+    box-shadow: 0px 4px 4px 0px rgba(32, 61, 52, 0.38);
+    overflow: hidden;
+}
+
+.frame-208 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 76px;
+    top: 110px;
+}
+
+.international-taxation {
+    color: #203d34;
+    text-align: center;
+    font-family: 'Roboto-Medium', sans-serif;
+    font-size: 28px;
+    font-weight: 500;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.frame-214 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 51px;
+    top: 154px;
+}
+
+.expert-guidance-on-cross-border-transactions-and-global-tax-obligations {
+    color: #29755a;
+    text-align: center;
+    font-family: var(--type-of-service-description-1-font-family, 'Roboto-Regular', sans-serif);
+    font-size: var(--type-of-service-description-1-font-size, 22px);
+    font-weight: var(--type-of-service-description-1-font-weight, 400);
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.foreign-income-reporting {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.expatriate-tax-services {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.international-business-structuring {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tax-treaty-analysis {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fi-rs-globe {
+    width: 49px;
+    height: 49px;
+    position: absolute;
+    left: 188px;
+    top: 37px;
+    overflow: hidden;
+}
+
+._01-align-center2 {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    right: 0%;
+    left: 0%;
+    bottom: 0%;
+    top: 0%;
+    overflow: visible;
+}
+
+.frame-299 {
+    background: #ffffff;
+    border-radius: 24px;
+    border-style: solid;
+    border-color: rgba(25, 126, 55, 0.70);
+    border-width: 1px;
+    width: 426px;
+    height: 365px;
+    position: absolute;
+    left: 1117px;
+    top: 881px;
+    box-shadow: 0px 4px 4px 0px rgba(32, 61, 52, 0.38);
+    overflow: hidden;
+}
+
+.business-advisory {
+    color: #203d34;
+    text-align: center;
+    font-family: 'Roboto-Medium', sans-serif;
+    font-size: 28px;
+    font-weight: 500;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.frame-215 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 37px;
+    top: 154px;
+}
+
+.comprehensive-advice-on-business-structures-and-financial-decisions {
+    color: #29755a;
+    text-align: center;
+    font-family: var(--type-of-service-description-1-font-family, 'Roboto-Regular', sans-serif);
+    font-size: var(--type-of-service-description-1-font-size, 22px);
+    font-weight: var(--type-of-service-description-1-font-weight, 400);
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.business-entity-selection {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tax-efficient-business-structuring {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.merger-and-acquisition-tax-planning {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.business-succession-planning {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fi-rs-chat-arrow-grow {
+    width: 49px;
+    height: 49px;
+    position: absolute;
+    left: 188px;
+    top: 37px;
+    overflow: visible;
+    aspect-ratio: 1;
+}
+
+.frame-300 {
+    background: #ffffff;
+    border-radius: 24px;
+    border-style: solid;
+    border-color: rgba(25, 126, 55, 0.70);
+    border-width: 1px;
+    width: 426px;
+    height: 365px;
+    position: absolute;
+    left: 1117px;
+    top: 1278px;
+    box-shadow: 0px 4px 4px 0px rgba(32, 61, 52, 0.38);
+    overflow: hidden;
+}
+
+.frame-209 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 84px;
+    top: 110px;
+}
+
+.financial-planning {
+    color: #203d34;
+    text-align: center;
+    font-family: 'Roboto-Medium', sans-serif;
+    font-size: 28px;
+    font-weight: 500;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.integrated-financial-planning-that-considers-tax-implications-of-wealth-management {
+    color: #29755a;
+    text-align: center;
+    font-family: var(--type-of-service-description-1-font-family, 'Roboto-Regular', sans-serif);
+    font-size: var(--type-of-service-description-1-font-size, 22px);
+    font-weight: var(--type-of-service-description-1-font-weight, 400);
+    position: relative;
+    width: 323px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.retirement-tax-planning {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.education-funding-strategies {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.investment-tax-efficiency {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cash-flow-optimization {
+    color: #29755a;
+    text-align: center;
+    font-family: 'Roboto-Light', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.vector4 {
+    width: 54.44px;
+    height: 49px;
+    position: absolute;
+    left: 172px;
+    top: 37px;
+    overflow: visible;
+    aspect-ratio: 54.44/49;
+}
