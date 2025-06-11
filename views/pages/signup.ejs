@@ -1,13 +1,14 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Create Account</title>
     <link rel="stylesheet" href="/css/signup.css">
 </head>
 <body>
-    <div class="mac-book-pro-16-20">
+<div class="mac-book-pro-16-20">
     <div class="content">
         <div class="frame-8">
             <div class="create-an-account"> Create an account </div>
@@ -15,70 +16,58 @@
         <div class="frame-218">
             <div class="text-field">
                 <div class="frame-302">
-                    <div class="name"> Name </div>
+                    <label class="name"> Name </label>
                 </div>
-                <div class="text-field2">
+                <input type="text" id="name" name="name" class="text-field2">
+                </input>
+            </div>
+
+            <div class="text-field">
+                <div class="frame-302">
+                    <label for="contact" class="contact-number"> Contact Number </label>
                 </div>
+                <input type="number" id="contact" name="contact" class="text-field2">
+                </input>
             </div>
             <div class="text-field">
                 <div class="frame-302">
-                    <div class="contact-number"> Contact Number </div>
+                    <label for="email" class="e-mail"> E-mail </label>
                 </div>
-                <div class="text-field2">
-                </div>
-            </div>
-            <div class="text-field">
-                <div class="frame-302">
-                    <div class="e-mail"> E-mail </div>
-                </div>
-                <div class="text-field2">
-                </div>
+                <input type="email" id="email" name="email" class="text-field2">
+                </input>
             </div>
             <div class="text-field">
                 <div class="frame-304">
                     <div class="frame-302">
-                        <div class="password"> Password </div>
+                        <label for="password" class="password"> Password </label>
                     </div>
                     <div class="password-hide-see">
                         <div class="frame-303">
-                            <div class="icon">
-                                <svg class="group-1" width="18" height="15" viewBox="0 0 18 15" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M16.226 0.878397L15.5514 0.203783C15.3607 0.0131248 15.0088 0.0424664 14.7888 0.306416L12.4419 2.63838C11.3858 2.18377 10.2273 1.96377 9.00991 1.96377C5.38713 1.97838 2.24867 4.09035 0.737894 7.12654C0.649869 7.3172 0.649869 7.5518 0.737894 7.71313C1.44183 9.15048 2.4979 10.3385 3.8179 11.2331L1.89657 13.1838C1.67657 13.4038 1.64723 13.7557 1.79394 13.9464L2.46856 14.621C2.65921 14.8117 3.0112 14.7823 3.2312 14.5184L16.1085 1.64117C16.3871 1.42129 16.4165 1.06933 16.2258 0.878649L16.226 0.878397ZM9.78723 5.30763C9.53789 5.24894 9.27394 5.17565 9.02459 5.17565C7.77787 5.17565 6.78065 6.17301 6.78065 7.41959C6.78065 7.66893 6.83933 7.93288 6.91262 8.18223L5.92985 9.15027C5.63655 8.63697 5.47523 8.06488 5.47523 7.41962C5.47523 5.46897 7.04459 3.89962 8.99524 3.89962C9.64062 3.89962 10.2126 4.06094 10.7259 4.35423L9.78723 5.30763Z" fill="#505050" />
-                                    <path d="M17.2803 7.12647C16.767 6.09976 16.0923 5.17583 15.2564 4.4278L12.5283 7.12647V7.41976C12.5283 9.37041 10.959 10.9398 9.00832 10.9398H8.71503L6.98438 12.6704C7.62976 12.8024 8.30438 12.8904 8.96438 12.8904C12.5872 12.8904 15.7256 10.7784 17.2364 7.72764C17.3684 7.52225 17.3684 7.31699 17.2804 7.12632L17.2803 7.12647Z" fill="#505050" />
-                                </svg>
-                            </div>
-                            <div class="hide"> Hide </div>
                         </div>
                     </div>
                 </div>
                 <div class="frame-306">
-                    <div class="text-field3">
-                    </div>
+                    <input type="password" id="password" name="password" class="text-field3">
+                    </input>
                     <div class="frame-305">
                         <div class="error-message"> Use 8 or more characters with a mix of letters, numbers &amp; symbols </div>
                     </div>
-                </div>
+                </d>
             </div>
             <div class="text-field">
                 <div class="frame-304">
                     <div class="frame-302">
-                        <div class="confirm-password"> Confirm Password </div>
+                        <label for="confirm-password" class="confirm-password"> Confirm Password </label>
                     </div>
                     <div class="password-hide-see">
                         <div class="frame-303">
-                            <div class="icon">
-                                <svg class="group-12" width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M16.226 1.67967L15.5514 1.00505C15.3607 0.814394 15.0088 0.843736 14.7888 1.10769L12.4419 3.43965C11.3858 2.98504 10.2273 2.76504 9.00991 2.76504C5.38713 2.77965 2.24867 4.89162 0.737894 7.92781C0.649869 8.11847 0.649869 8.35307 0.737894 8.51439C1.44183 9.95175 2.4979 11.1398 3.8179 12.0344L1.89657 13.985C1.67657 14.205 1.64723 14.557 1.79394 14.7477L2.46856 15.4223C2.65921 15.613 3.0112 15.5836 3.2312 15.3197L16.1085 2.44244C16.3871 2.22256 16.4165 1.8706 16.2258 1.67992L16.226 1.67967ZM9.78723 6.1089C9.53789 6.05021 9.27394 5.97692 9.02459 5.97692C7.77787 5.97692 6.78065 6.97427 6.78065 8.22086C6.78065 8.4702 6.83933 8.73415 6.91262 8.9835L5.92985 9.95154C5.63655 9.43824 5.47523 8.86615 5.47523 8.22089C5.47523 6.27024 7.04459 4.70089 8.99524 4.70089C9.64062 4.70089 10.2126 4.86221 10.7259 5.1555L9.78723 6.1089Z" fill="#505050" />
-                                    <path d="M17.2803 7.92774C16.767 6.90103 16.0923 5.9771 15.2564 5.22906L12.5283 7.92774V8.22103C12.5283 10.1717 10.959 11.741 9.00832 11.741H8.71503L6.98438 13.4717C7.62976 13.6037 8.30438 13.6917 8.96438 13.6917C12.5872 13.6917 15.7256 11.5797 17.2364 8.52891C17.3684 8.32352 17.3684 8.11826 17.2804 7.92759L17.2803 7.92774Z" fill="#505050" />
-                                </svg>
-                            </div>
-                            <div class="hide"> Hide </div>
+                           
                         </div>
                     </div>
                 </div>
                 <div class="frame-306">
-                    <div class="text-field3">
-                    </div>
+                    <input type="password" id="confirm-password" name="confirm-password" class="text-field3">
+                    </input>
                     <div class="frame-305">
                         <div class="error-message"> Use 8 or more characters with a mix of letters, numbers &amp; symbols </div>
                     </div>
@@ -94,7 +83,7 @@
         </div>
         <div class="not-a-robot-checkbox">
             <div class="frame-217">
-                <svg class="check-box" width="21" height="20" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <input type="checkbox" class="check-box" id="not-a-robot" name="not-a-robot">
                     <g clip-path="url(#clip0_399_4676)">
                         <path d="M15.9111 2.49359H4.32336C3.40462 2.49359 2.66797 3.23852 2.66797 4.14898V15.7367C2.66797 16.6472 3.40462 17.3921 4.32336 17.3921H15.9111C16.8298 17.3921 17.5665 16.6472 17.5665 15.7367V4.14898C17.5665 3.23852 16.8298 2.49359 15.9111 2.49359ZM8.46184 14.0813L4.32336 9.94285L5.49041 8.7758L8.46184 11.739L14.744 5.45674L15.9111 6.63207L8.46184 14.0813Z" fill="#34A853" />
                     </g>
@@ -103,7 +92,7 @@
                             <rect width="19.8647" height="19.8647" fill="white" transform="translate(0.183594 0.010498)" />
                         </clipPath>
                     </defs>
-                </svg>
+                </input>
                 <div class="i-m-not-a-robot"> I’m not a robot </div>
             </div><svg class="google-recaptcha-official-2" width="54" height="52" viewBox="0 0 54 52" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <g clip-path="url(#clip0_399_4680)">
@@ -127,6 +116,8 @@
             </div>
         </div>
     </div>
+
+<div class="group-11">
     <div class="have-an-account-login">
         <div class="sign-in"> Sign In </div>
     </div>
@@ -138,5 +129,7 @@
         </div>
     </div>
 </div>
+</div>
 </body>
 </html>
+

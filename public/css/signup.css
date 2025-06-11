@@ -442,3 +442,181 @@
     color: #666666;
     text-decoration: underline;
 }
+
+
+
+
+
+
+.group-11,
+.group-11 * {
+    box-sizing: border-box;
+}
+
+.group-11 {
+    position: relative;
+}
+
+.have-an-account-login {
+    padding: 2.21px;
+    display: flex;
+    flex-direction: row;
+    gap: 11.04px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 225px;
+    top: 0px;
+}
+
+.sign-in {
+    color: #333333;
+    text-align: left;
+    font-family: 'Montserrat-Regular', sans-serif;
+    font-size: 17.65750503540039px;
+    font-weight: 400;
+    text-decoration: underline;
+    position: relative;
+}
+
+.have-an-account-login2 {
+    padding: 2.21px;
+    display: flex;
+    flex-direction: row;
+    gap: 11.04px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.already-have-an-ccount {
+    text-align: left;
+    font-family: 'Montserrat-Regular', sans-serif;
+    font-size: 17.65750503540039px;
+    font-weight: 400;
+    position: relative;
+}
+
+.already-have-an-ccount-span {
+    color: rgba(51, 51, 51, 0.60);
+}
+
+.already-have-an-ccount-span2 {
+    color: #666666;
+}
+
+.already-have-an-ccount-span3 {
+    color: #666666;
+    text-decoration: underline;
+}
+
+.button,
+.button * {
+    box-sizing: border-box;
+}
+
+.button {
+    background: rgba(102, 102, 102, 0.50);
+    border-radius: 35.32px;
+    flex-shrink: 0;
+    width: 297.97px;
+    height: 70.63px;
+    position: relative;
+    box-shadow: 0px 4px 4px 0px rgba(166, 172, 168, 1.00);
+    overflow: hidden;
+}
+
+.frame-276 {
+    display: flex;
+    flex-direction: row;
+    gap: 8.83px;
+    align-items: center;
+    justify-content: center;
+    height: 36.42px;
+    position: absolute;
+    left: 50%;
+    translate: -50% -50%;
+    top: 50%;
+}
+
+.create-an-accrount {
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Montserrat-Medium', sans-serif;
+    font-size: 24.279069900512695px;
+    font-weight: 500;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+
+.group-11,
+.group-11 * {
+    box-sizing: border-box;
+}
+
+.group-11 {
+    position: relative;
+}
+
+.have-an-account-login {
+    padding: 2.21px;
+    display: flex;
+    flex-direction: row;
+    gap: 11.04px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 225px;
+    top: 0px;
+}
+
+.sign-in {
+    color: #333333;
+    text-align: left;
+    font-family: 'Montserrat-Regular', sans-serif;
+    font-size: 17.65750503540039px;
+    font-weight: 400;
+    text-decoration: underline;
+    position: relative;
+}
+
+.have-an-account-login2 {
+    padding: 2.21px;
+    display: flex;
+    flex-direction: row;
+    gap: 11.04px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.already-have-an-ccount {
+    text-align: left;
+    font-family: 'Montserrat-Regular', sans-serif;
+    font-size: 17.65750503540039px;
+    font-weight: 400;
+    position: relative;
+}
+
+.already-have-an-ccount-span {
+    color: rgba(51, 51, 51, 0.60);
+}
+
+.already-have-an-ccount-span2 {
+    color: #666666;
+}
+
+.already-have-an-ccount-span3 {
+    color: #666666;
+    text-decoration: underline;
+}
