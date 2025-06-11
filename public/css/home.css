@@ -1,20 +1,12 @@
-.frame-312,
-.frame-312 * {
+.mac-book-pro-16-8,
+.mac-book-pro-16-8 * {
     box-sizing: border-box;
 }
 
-.frame-312 {
-    height: 3957px;
-    position: relative;
-}
-
-.mac-book-pro-16-20 {
+.mac-book-pro-16-8 {
     background: var(--taxellence-bg, linear-gradient(to left, rgba(24, 71, 57, 0.75), rgba(24, 71, 57, 0.75)));
-    width: 1728px;
     height: 1117px;
-    position: absolute;
-    left: 0px;
-    top: 0px;
+    position: relative;
 }
 
 .home {

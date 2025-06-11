@@ -48,11 +48,11 @@ app.get('/pages/allServices', (req, res) => {
 });
 
 
-app.get('/signin', (req, res) => {
+app.get('/pages/signin', (req, res) => {
     res.render('pages/signin'); // Renders 'views/allServices.ejs'
 });
 
-app.get('/signup', (req, res) => {
+app.get('/pages/pages/signup', (req, res) => {
     res.render('pages/signup'); // Renders 'views/allServices.ejs'
 }
 );
