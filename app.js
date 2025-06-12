@@ -37,7 +37,15 @@ res.send('Taxcellence Project is Working!')
   });
 /* home router  */
 
+
 app.get('/home', (req, res) => {
+    console.log('Home Page Accessed');
+    res.render('pages/home', { title: 'Taxcellence Home' });
+});
+
+
+
+app.get('/pages/pages/home', (req, res) => {
     console.log('Home Page Accessed');
     res.render('pages/home', { title: 'Taxcellence Home' });
 });
@@ -62,10 +70,12 @@ app.get('/varify', (req, res) => {
 }
 );
 
-app.get('/PrivacyPolicy', (req, res) => { 
+app.get('/pages/privacyPolicy', (req, res) => { 
     res.render('pages/PrivacyPolicy.ejs'); // Renders 'views/privacy.ejs'
 }
 );
+
+
 
     app.listen(port, () => {
       console.log(`Taxcellence listening on port ${port}`)
