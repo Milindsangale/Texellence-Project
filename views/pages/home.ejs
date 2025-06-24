@@ -221,13 +221,13 @@
                     <div class="home3"> Home </div>
                 </div>
                 <div class="about">
-                    <div class="about2"> About </div>
+                    <div  href="#" onclick="showAboutUs()" class="about2"> About </div>
                 </div>
                 <div class="services">
-                    <div class="services2"> Services </div>
+                    <div href="#" onclick="scrollToAbout()"  class="services2"> Services </div>
                 </div>
                 <div class="contact-us">
-                    <div class="contact"> Contact </div>
+                    <div href="#" onclick="scrollToContact()"  class="contact"> Contact </div>
                 </div>
                 <div class="book-a-call3">
                     <svg class="icon" width="14" height="15" viewBox="0 0 14 15" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -269,5 +269,30 @@
         </div>
     </div>
 </div>
+
+<script>
+function showAboutUs() {
+  document.querySelector('.about-us').style.display = 'block';
+  document.querySelector('.about-us').scrollIntoView({ behavior: 'smooth' });
+}
+</script>
+
+<script>
+  function scrollToAbout() {
+    document.querySelector('.imp-t-ile2').scrollIntoView({
+      behavior: 'smooth'
+    });
+  }
+</script>
+
+<script>
+  function scrollToContact() {
+    document.querySelector('.footer').scrollIntoView({
+      behavior: 'smooth'
+    });
+  }
+</script>
+
+
 </body>
 </html>

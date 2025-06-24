@@ -1,3 +1,13 @@
+html {
+  scroll-behavior: smooth;
+}
+
+
+
+
+
+
+
 .mac-book-pro-16-8,
 .mac-book-pro-16-8 * {
     box-sizing: border-box;
